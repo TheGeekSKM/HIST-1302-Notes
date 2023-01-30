@@ -1,0 +1,3 @@
+# Notes
+## Homework
+ - Read Syllabus
